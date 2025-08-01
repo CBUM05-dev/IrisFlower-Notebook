@@ -7,7 +7,7 @@ Ce projet utilise l'ensemble de données classique *Iris* pour entraîner un mod
 - `irisFlower.ipynb` : Notebook Jupyter contenant le code complet du projet.
 - `README.md` : Ce fichier de présentation du projet.
 
-## 📊 Description du dataset
+##  Description du dataset
 
 L'ensemble de données contient **150 échantillons** répartis en 3 espèces de fleurs, avec 4 caractéristiques :
 
